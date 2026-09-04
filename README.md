@@ -1,5 +1,5 @@
 # Advanced-CAD-Modeling-Complex-Surface-Patterned-Component-SolidWorks
-
+[Add screenshots of the final model and feature tree here.]
 ## Overview
 
 This project presents the parametric 3D modeling of a complex hollow component developed using **SolidWorks**.
@@ -67,7 +67,6 @@ Completed – CAD modeling stage.
 
 ## Preview
 
-[Add screenshots of the final model and feature tree here.]
 
 ## Author
 
